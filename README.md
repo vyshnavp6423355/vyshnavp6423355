@@ -14,7 +14,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnavp6423355&layout=compact&theme=gotham)](https://github.com/vyshnavp6423355/github-readme-stats)
 
-## smol amt of flex😪
+## smol amount of flex😪
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vyshnavp6423355&theme=gotham)](https://git.io/streak-stats)
 
 
