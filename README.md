@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, I am Vyshnav P
 
-<!--
-**vyshnavp6423355/vyshnavp6423355** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on MNIST dataset
+- 🌱 I’m currently learning Deep Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My activities so far 😋
+![Vyshnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vyshnavp6423355&hide=contribs,prs)
+
+
+
+## Languages I used so far 🤔
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnavp6423355&layout=compact)](https://github.com/vyshnavp6423355/github-readme-stats)
+
+
+
+# Looking forward to make this bulkier and better 😤
