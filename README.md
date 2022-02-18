@@ -1,8 +1,6 @@
 ### Hi there 👋, I am Vyshnav P
 
 
-%- 🔭 I’m currently working on MNIST dataset
-%- 🌱 I’m currently learning Deep Learning
 
 
 ## My activities so far 😋
